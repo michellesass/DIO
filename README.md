@@ -1,2 +1,2 @@
-# DIO Formação HTML Web Developer
- Projetos da DIO.me
+# DIO 
+ Projeto do curso de Formação HTML Web Developer: Primeiros passos com HTML.
